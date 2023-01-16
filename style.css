@@ -12,10 +12,14 @@ body {
     background-color: #222222;
 }
 
+table {
+    padding: 2%;
+}
+
 h1 {
     padding: 2%;
     text-align: center;
-    background-color: #000000;
+    background-color: #111111;
     color: #00ff00;
     font-family: monospace;
     font-size: 48px;
@@ -24,7 +28,7 @@ h1 {
 h2 {
     padding: 2%;
     text-align: center;
-    background-color: #000000;
+    background-color: #111111;
     color: #00dd00;
     font-family: monospace;
     font-size: 40px;
@@ -33,7 +37,7 @@ h2 {
 h3 {
     padding: 2%;
     text-align: center;
-    background-color: #000000;
+    background-color: #111111;
     color: #00aa00;
     font-family: monospace;
     font-size: 32px;
