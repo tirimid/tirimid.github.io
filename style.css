@@ -53,6 +53,25 @@ p {
     font-size: 24px;
 }
 
+.codelong {
+    display: block;
+    white-space: pre-wrap;
+    padding-left: 4%;
+    padding-right: 4%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
 code {
+    background-color: #333333;
+    color: #ffff00;
     font-size: 20px;
+}
+
+a:link {
+    color: #0077ff;
+}
+
+a:visited {
+    color: #0055ff;
 }
